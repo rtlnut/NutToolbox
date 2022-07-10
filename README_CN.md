@@ -7,12 +7,10 @@ modified: '2022-07-10T11:21:12.345Z'
 
 # NutToolbox_CN
 
-- English version [EN](@note/NutToolbox_EN.md)
+- English version [EN](README.md)
 
 ## 什么是NutToolbox
 一个练习Python用的简单项目
-适用于windows系统上运行的工具箱
-可以方便你使用电脑（也许吧）
 
 ## NutToolbox的开发计划
 - [ ] GUI
