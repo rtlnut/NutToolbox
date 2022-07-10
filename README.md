@@ -1,9 +1,9 @@
 # NutToolbox_EN
 
-- Chinese version [[CN|README_CN.md]]
+- Chinese version [CN](README_CN.md)
 
 ## What is NutToolbox
-A python toolbox for running on Windows systems
+A simple python toolbox for running on Windows systems
 
 ## NutToolbox's development plan
 - [ ] GUI
