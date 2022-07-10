@@ -1,6 +1,6 @@
 # NutToolbox_EN
 
-- Chinese version [CN](@note/NutToolbox_CN.md)
+- Chinese version [CN](NutToolbox_CN.md)
 
 ## What is NutToolbox
 A simple project for practicing Python
